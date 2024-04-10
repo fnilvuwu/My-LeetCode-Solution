@@ -1,1 +1,3 @@
-Currently Learning about Heap Stack
+Currently Learning about :
+- Heap Stack
+- Conditional GAN
