@@ -10,4 +10,4 @@ Learning Progress:
 - LLM using Torch (100/100%)
 - Binary Tree (100/100%)
 - Linked List (100/100%)	
-- D2L Dive into Deep Learning (67/100%)
+- D2L Dive into Deep Learning (68/100%)
